@@ -1,9 +1,6 @@
 # QGEN
 The aim of this project is to build a Question generation system by generating keywords from input text from the user along with generating distractors for MCQs.
 
-## Demo
-![](Demo.gif)
-
 ## Dataset
 - [SQuAD](https://drive.google.com/drive/folders/1-6aRI_FxESanscRGe1kElncFtyW_Y0nS) 
   - The Stanford Question Answering Dataset (SQuAD) is a set of question and answer pairs along with the context.
